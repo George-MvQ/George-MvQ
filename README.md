@@ -2,7 +2,7 @@
 
 
 
-<p style="text-align: center;">Soy programador con pensum cerrado en Ingeniería en Sistemas. Tengo experiencia en el desarrollo de software, especializándome en aplicaciones web y bases de datos.</p>
+**Soy programador con pensum cerrado en Ingeniería en Sistemas. Tengo experiencia en el desarrollo de software, especializándome en aplicaciones web y bases de datos**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
